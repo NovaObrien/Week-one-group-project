@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(206, 204, 204)
+  ;
+}
+
+.Main-Color{
+  background-color: white;
+
+}
+
+.hero-shot{
+  background-image: url(Images/heroshot.jpg);
+  height: 25vh;
+  background-size: cover;
+}
+
+.image1{
+  background-image: url(Images/tractor3.jpg);
+  height: 325px;
+  width: 550px;
+}
+.image2{
+  background-image: url(Images/tractor4.jpg);
+  height: 325px;
+  width: 550px;
+}
+
+.image3{
+  background-image: url(Images/image3.webp);
+  height: 325px;
+  width: 550px;
+}
+.image4{
+  background-image: url(Images/image4.webp);
+  height: 325px;
+  width: 550px;
+}
+
+.overlay{
+  background-color: rgba(128, 128, 128, 0.753);
+  height: 100%
+}
+
+.m-20{
+  margin-left: 20vh;
+  margin-right: 20vh;
+}
+
